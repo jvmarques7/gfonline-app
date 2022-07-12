@@ -25,6 +25,7 @@
     "mask-email-address": "^1.0.1",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-bootstrap": "^2.0.0-rc.0",
     "react-dom": "^16.8.6",
@@ -63,8 +64,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "node-sass": "^4.12.0"
   }
 }
